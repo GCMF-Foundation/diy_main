@@ -14,7 +14,7 @@ function pageLayout(props) {
   const title2 = "";
   const slogan =
     "Seperti Laskar pelangi, raihlah bintangmu dan lampaui batasanmu. Lihatlah lembar Ujianmu bukan sebagai beban hidupmu tapi sebagai peluang untuk menuju gerbang kesuksesanmu.";
-  const copyright = "2021 DIY Blended Learning - Didukung oleh Geschool";
+  const copyright = "2021 DIY Blended Learning - Didukung oleh ";
 
   return (
     <div>
